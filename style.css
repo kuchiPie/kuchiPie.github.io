@@ -1,0 +1,16 @@
+.container-fluid{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center !important;
+    letter-spacing: 0.2rem;
+    background: rgba(0,0,0,0.6) !important;
+    padding: 20px 0 !important;
+}
+
+.heading-content{
+    position:absolute;
+    top:40%;
+    width:100%;
+    max-width: 100%;
+}
